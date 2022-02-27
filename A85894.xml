@@ -1,0 +1,544 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Stella nova, a nevv starre, leading wisemen unto Christ. Or, A sermon preached before the learned Society of Astrologers, August 1. 1649. in the Church of S. Mary Alder-Mary, London. By Robert Gell D.D. minister of the Word there.</title>
+            <author>Gell, Robert, 1595-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 79 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85894</idno>
+            <idno type="STC">Wing G473</idno>
+            <idno type="STC">Thomason E568_15</idno>
+            <idno type="STC">ESTC R204208</idno>
+            <idno type="EEBO-CITATION">99863878</idno>
+            <idno type="PROQUEST">99863878</idno>
+            <idno type="VID">116094</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85894)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116094)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E568[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Stella nova, a nevv starre, leading wisemen unto Christ. Or, A sermon preached before the learned Society of Astrologers, August 1. 1649. in the Church of S. Mary Alder-Mary, London. By Robert Gell D.D. minister of the Word there.</title>
+                  <author>Gell, Robert, 1595-1665.</author>
+               </titleStmt>
+               <extent>[8], 31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Satterthwaite; and are to be sold at his shop at the signe of the Sun on Garlick-Hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A sermon, preached before the Society of Astrologers.</note>
+                  <note>Annotation on Thomason copy: "Aug. 9".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116094:1" rendition="simple:additions"/>
+            <p>
+               <hi>STELLA NOVA,</hi> A NEW STARRE, Leading wiſemen unto CHRIST. <hi>OR,</hi> A SERMON Preached before the learned Society of <hi>ASTROLOGERS,</hi> AUGUST 1. 1649. In the Church of S. <hi>Mary Alder-Mary, London.</hi>
+            </p>
+            <p>By ROBERT GELL <hi>D.D.</hi> Miniſter of the Word there.</p>
+            <p>Sol &amp; Luna, poſt Deum, omnium viventium vita ſunt. <bibl>Herm. Triſm.</bibl>
+            </p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <bibl>Philo Jud. de mundi Opif.</bibl>
+            </q>
+            <q>Aſtrologia perſcrutanda eſt ad cognoſcendum proprietates iſtorum ſyderum, u<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hunc locum intelligere poſſimus. <bibl>Aug.</bibl>
+            </q>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <bibl>
+                  <hi>Clem. Alex. Strom. lib. 66.</hi>
+               </bibl>
+            </q>
+            <q>Chaldaei <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xitium, quod imminebat, praevidere non potuerunt, utpote quod ex na<g ref="char:EOLhyphen"/>turali aſtrorum curſu non emanaret, ſed ex arcano Dei conſilio. <bibl>Calvin.</bibl>
+            </q>
+            <q>Cert um eſt, multas in elementis mutationes ab aſtris oriri, &amp; in craſi humanorum corporum, &amp; ingeniorum inclinationibus, lumen coeleſte magnam vim habere. <bibl>Phil. Melanch.</bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Samuel Satterthwaite;</hi> and are to be ſold at his ſhop at the ſigne of the Sun on Garlick-Hill. 1649.</p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:116094:2"/>
+            <pb facs="tcp:116094:2"/>
+            <head>To the Learned SOCIETIE OF Artiſts, or Students IN ASTROLOGIE.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat I was not eaſily perſwaded to ſpeak in publique of the enſuing argument, ſome of your ſelves, who importuned me thereunto, can teſti<g ref="char:EOLhyphen"/>fie. But how much more averſe I ever have been from expoſing my thoughts in print to the common view and cenſure of all men, many other very well know. Among other reaſons, theſe eſpecially moved me. The world is overcharged with an inſupportable number of books; and <hi>Bookwrights</hi> daily add unto the
+<pb facs="tcp:116094:3"/>burden: <hi>Scribimus indocti docti<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>.</hi>—I have obſerved alſo much precious truth already extant; exceedingly neglected, eſpecially becauſe it preſents it ſelf in ſim<g ref="char:EOLhyphen"/>ple and plain language, even as the Scripture, for the ſame reaſon, is ſleighted, which makes for the further condemnation of thoſe, who, by reaſon of the plain<g ref="char:EOLhyphen"/>neſſe, cannot but know it, yet obey it not. And truly I never affected any elaborate expreſſion, or high lan<g ref="char:EOLhyphen"/>guage, but content my ſelf with a plain and low ſtyle, condeſcending as much as I can, to the capacity of all.</p>
+            <p>Alſo I have learned by the experience of ſome o<g ref="char:EOLhyphen"/>thers, who having publiſhed their preſent conceivings, have lived to correct them, and wiſhed, but too late, that they were recalled. <hi>Dies diem docet.</hi> By which means, they have caſt themſelves into this dangerous <hi>Dilemma;</hi> That either they muſt ſtiffly maintain what they had raſhly adventured to divulge, as commonly men do, (few being ſo ingennous as to write their Re<g ref="char:EOLhyphen"/>tractations;) or els they muſt hazzard their credit a<g ref="char:EOLhyphen"/>mong too many, who think it laudable to be conſtant (or rather obſtinate) in defence, though of groſſe er<g ref="char:EOLhyphen"/>rors, if they be their <hi>Principalls,</hi> as they call them, which they have taken up upon truſt; and conceive it a great diſparagement unto themſelves to change their opinions, though for the Truth it ſelf; and think it a great folly to be wiſer than they were.</p>
+            <p>I know alſo how impatient many are, that any one ſhould differ from them in judgment in the leaſt, if in divine matters; though in them, by reaſon of their hidden nature, and our corruption and blindneſſe, there be the greateſt darkneſſe; ſo that men ought not there<g ref="char:EOLhyphen"/>in too ſuddenly to be reſolved.</p>
+            <p>Notwithſtanding theſe, and many other reaſons
+<pb facs="tcp:116094:3"/>which might be named, I held my ſelf ingaged, upon occaſion of this ſubject, to ſpeak ſomthing concerning that concealed truth of Gods governing the world by the influence of the Starrs and Angells, which I be<g ref="char:EOLhyphen"/>lieve, makes much for the glory of God, becauſe there<g ref="char:EOLhyphen"/>by his mighty power is made known, both in reſtrain<g ref="char:EOLhyphen"/>ing the ordinary power of nature, as he often doth; and limiting the Devills power and malice; which ſome profeſſing your Art, have attempted to make uſe of, to the deſtruction of Gods people.</p>
+            <p>
+               <hi>Flectere quòd nequeant Superos, Acheronta movebunt.</hi> But in vain. The great God powerfully protects his people, as he did from <hi>Balaam,</hi> ſo that there is no in<g ref="char:EOLhyphen"/>chantment againſt <hi>Jacob,</hi> nor divination againſt <hi>Iſrael, Numb.</hi> 23.23. Yea he imparts ſuch power, eſpecially to wiſe, faithfull and obedient men, that they are able to give check to the influences of Heaven.</p>
+            <p>If any thing delivered, croſſe the received Tenents of ſome men, they ought not much to take offence, or be impatient, that I or any other man ſhould differ in judgement from them, if they remember, that the Na<g ref="char:EOLhyphen"/>tionall Covenant bindeth all thoſe who have taken it, to endeavour <hi>Reformation in Doctrine firſt,</hi> then in <hi>Diſ<g ref="char:EOLhyphen"/>cipline and Government.</hi> And if Reformation muſt be made in Doctrine, it's evidently ſuppoſed, that in re<g ref="char:EOLhyphen"/>ceived Tenents of Doctrine, there muſt be ſomewhat amiſſe; how els can there be Reformation made in Doctrine?</p>
+            <p>And whereas Reformation in Diſcipline and Go<g ref="char:EOLhyphen"/>vernment is much preſſed, though there be not one word of any ſpeciall Government in the Covenant, ought not men to be more earneſt for Reformation in Doctrine, which is eſſentiall and principall, than for
+<pb facs="tcp:116094:4"/>Diſcipline and Government which is accidentall only and implied? And therefore, under the favour of thoſe who think otherwiſe, there is ſome neceſſity, that all differences in judgement ſhould be made known, yea though ſome of them be very erroneous; in which reſpect, there muſt be hereſies, ſaith the Apoſtle, 1 <hi>Cor.</hi> 11. And therfore <hi>prove all things, and hold faſt that which is good,</hi> 1 <hi>Theſ.</hi> 5.21. <hi>Try the Spirits,</hi> 1 <hi>John</hi> 4.1. For how can we prove all things, unleſſe we have ſome knowledge of them? how can we try the Spirits, ex<g ref="char:EOLhyphen"/>cept we know, there are ſuch ſuch Spirits?</p>
+            <p>There is yet another reaſon, which truly in it ſelf, is not ſo prevalent with me, as the importunity of ſome friends makes it; namely, the obloquy and reproach that ſome men have caſt upon this Sermon, and the Preacher of it. <hi>That it had neither head nor taile. That in it I had defended Conjurers and Juglers. That I held the influences of the ſtarres ſo powerfull, that they inforced a man to ſin. That I had delivered many notorious</hi> FALSE TRUTHS. That Phraſe of implicite contra<g ref="char:EOLhyphen"/>diction plainly ſpeaks the men, of what judgement they are.</p>
+            <p>And therefore I had altogether neglected their re<g ref="char:EOLhyphen"/>proaches, having endeavoured now for many years to approve my ſelf a ſervant of Chriſt, by honour and diſhonour, by good report and evill report. Howbeit underſtanding that ſome were hired to take notes, by one or other, of whom I could promiſe my ſelf no great good, having had experience of ſuch indirect dealing, leaſt the truth it ſelf ſhould ſuffer by me, (even that — <hi>grandavus Alethes,</hi> that old Truth, which I endeavoured to draw out of the pit,) I choſe rather to expoſe my rude meditations unto the world in their
+<pb facs="tcp:116094:4"/>own home-ſpun dreſſe, than ſuffer them to be preſen<g ref="char:EOLhyphen"/>ted naked on the ſtage (according to the miſapprehen<g ref="char:EOLhyphen"/>ſions and evill intentions of ſome) to be hiſſed off again, if I could thus prevent it.</p>
+            <p>Thus Gentlemen, I have given you my reaſons both of my backwardneſſe, and yet alſo of my forwardneſſe to ſerve you. Excuſe, I pray you, all defects, as for other reaſons, ſo by my ſhort warning, a fortnight onely, wherein my weekly buſineſſe, as much as other mens, hath not been omitted, though I know the guiſe of men, <hi>minuunt de labore ut addant ingenio;</hi> yet what I ſay, ye know to be true.</p>
+            <p>I beſeech ye, heed well, what in ſpeciall I ſpeak to you, toward the end of this diſcourſe: which the ra<g ref="char:EOLhyphen"/>ther I hope ye will do, becauſe ye made choice of me, not onely as being one of your judgement touching your Art, but as one, of whom ye might heare Truth impartially concerning your due practiſe of your Art, willing to pleaſe all men, but onely for their good un<g ref="char:EOLhyphen"/>to edification, having no mans perſon in admiration for advantage ſake.</p>
+            <p>As therefore ye and your Art are ſervants unto the God of Heaven, ſo far forth I profeſſe and ſubſcribe my ſelf,</p>
+            <closer>
+               <salute>Sirs,</salute> 
+               <signed>Your ſervant in the Lord, <hi>R. Gell.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:116094:5"/>
+            <pb n="1" facs="tcp:116094:5"/>
+            <head>A SERMON Preached before the learned Society of ASTROLOGERS.</head>
+            <epigraph>
+               <q>
+                  <bibl>MATTH. 2.2.</bibl>
+                  <p>Where is He that is borne King of the Jewes? for we have ſeene his Star in the Eaſt, and are come to worſhip him.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>Mong the <hi>Grecians</hi> they had their common Aſſemblies of their owne and other Nations every fifth yeer, ſaith <hi>Herodotus;</hi> and at thoſe meetings, their Panegyrical Orations, whoſe maine ſcope was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the profit and wealth of <hi>Greece.</hi> And among us, moſt Pro<g ref="char:EOLhyphen"/>feſſions and Societies of men have their Con<g ref="char:EOLhyphen"/>ventions and Aſſemblies; and their end commonly differs little from that of <hi>Greece;</hi> it is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, their Wealth, the advance<g ref="char:EOLhyphen"/>ment and increaſe of Trade. And although there be ſome pre<g ref="char:EOLhyphen"/>tence of amity and love, yet all being buſied about the ſame commodity wherein every one hath equall intereſt, if ſome no<g ref="char:EOLhyphen"/>table gain, like a Bone, be caſt among them, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> covetouſneſſe and envie ſoon ravils all their friendſhip.</p>
+            <p>As for you, the learned Society of Artiſts, with whom now
+<pb n="2" facs="tcp:116094:6"/>properly my buſineſſe is, your anniverſary meeting is, I hope, for more noble ends, the common good and benefit of Man<g ref="char:EOLhyphen"/>kinde; the nouriſhing and ſtrengthning of true, mutuall, Chri<g ref="char:EOLhyphen"/>ſtian love; the owning of the great God, whoſe name is <hi>Love,</hi> (1 <hi>John</hi> 4.8.16.) in His works of Nature and Government of the World by STARS and ANGELS, neglected by almoſt all other men. And as your Studies are about the Heavens and heavenly Bodies, their orderly Motions and powerfull influen<g ref="char:EOLhyphen"/>ces upon this inferiour World; ſo the end of your coming to<g ref="char:EOLhyphen"/>gether, is to glorifie the GOD of Heavens, who made that won<g ref="char:EOLhyphen"/>derfull frame, and maintaines that conſtant order and power<g ref="char:EOLhyphen"/>full efficacy of the coeleſtiall Bodies, and by them leads us to the knowledge, contemplation and admiration of Himſelfe. Yea, whereas the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ime is now come, and that fulfilled, which our Lord foretold, <hi>Mat.</hi> 24.23. that men ſhould ſay, <hi>Loe here is Chriſt,</hi> or there. The end of your meeting is like that of the <hi>Magi,</hi> the Wiſe-men; who ſoon after our Lords birth, came from the Eaſt to <hi>Jeruſalem,</hi> ſaying, <hi>Where is He that is borne King of the Jewes? for we have ſeene his Star in the Eaſt, and are come to worſhip Him.</hi>
+            </p>
+            <p>That's the argument I ſhall entertaine your patience withall, and treat on at this time.</p>
+            <p>
+               <hi>Mat.</hi> 2.<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c. Where is He that is borne, &amp;c.</hi> Take the Text with the words preceding; <hi>Non when Jeſus was borne in Bethlehem, &amp;c. Behold, there came Wiſe-men from the Eaſt to Jeruſa<g ref="char:EOLhyphen"/>lem, ſaying, Where is He, &amp;c.</hi>
+            </p>
+            <p>All they ſay, is contained in theſe two Parts:</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a Queſtion, <hi>Where is he that is borne King of the Jewes?</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a Reaſon rendred of the Queſtion, and that both from the impulſive cauſe, and the end why they made their jour<g ref="char:EOLhyphen"/>ney, and moved this Queſtion; <hi>For we have ſeen, &amp;c.</hi>
+            </p>
+            <p>In the Queſtion we have:</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>datum,</hi> the ſuppoſition; and that they tooke for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, granted, <hi>That the King of the Jewes was borne.</hi>
+            </p>
+            <p>That which they put to the Queſtion upon this ſuppoſition, <hi>Where is He that is borne, &amp;c.</hi>
+            </p>
+            <p>To the unfolding both of the Suppoſition and Queſtion
+<pb n="3" facs="tcp:116094:6"/>thereupon; its neceſſary that we know who theſe Queſtio<g ref="char:EOLhyphen"/>niſts were. The verſe before my Text tels us they were <hi>Magi</hi>-which we turn Wiſe-men: which word, becauſe its very ams biguous, we may know that anciently there were two ſorte of W<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſd<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mes, and ſo of Wiſe-men. The former Wiſedome truely ſo called, begins with the feare of God, and is the knowledge of Divine and Humaine things: Divine, as of the Providence of God, his generall government of the World by Stars and Angels; his ſpeciall government of his Church by his Word and Spirit.</p>
+            <p>Humaine, as the knowledge of Nature, and the myſteries and wonders therein contained, farre greater than our natu<g ref="char:EOLhyphen"/>rall Phyloſophy now in uſe and reputation will reach unto; alſo practicall Philoſophy in Morality and Civility.</p>
+            <p>The latter ſort of Wiſdome, falſely ſo called, begins with the ignorance of God, neglect and contempt of his Nature, Will, Word, Wayes and Works, and is the knowledge of Diabolicall curioſities, as Witchcraft, Necromancy, confede<g ref="char:EOLhyphen"/>racy with uncleane Spirits; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a ſubtill way of deceiving a mans ſelfe and others, by the names of God &amp; Angels, when the Devill intends nothing leſſe. Of this kinde alſo is that ſort of Jugling whereby the Fancie is corrupted, and works truely wrong it beyond the power of Nature by compact with the Divell.</p>
+            <p>The former kind of Wiſdome is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Naturall Magicke, and tends altogether to the honour of God, and to the preſervation of Man-kinde.</p>
+            <p>The latter is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Magicke Diabo<g ref="char:EOLhyphen"/>licall, and tends wholly to the diſhonour of God, and to the ruine and deſtruction of Mankinde.</p>
+            <p>This is that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Wiſedome and Wiſe-men falſe<g ref="char:EOLhyphen"/>ly ſo called; which God in Scripture ſo often by his Pro<g ref="char:EOLhyphen"/>phets and Apoſtl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s inveighes againſt. Such were <hi>Pharaohs</hi> Southſayers, of whom Saint <hi>Paul</hi> mentions two, <hi>Jannes</hi> and <hi>Jambres;</hi> ſuch was <hi>Simon Magus,</hi> ſuch was <hi>Elymas</hi> the Sorcerer, and ſun dry the like.</p>
+            <p>Theſe two kinds of Wiſedome and Wiſe-men, he who
+<pb n="4" facs="tcp:116094:7"/>confounds, and takes for the ſame, either out of ignorance, or malice, or both (for ſuch there are) he too much wrongs and abaſes the ſervants of God, and too much honors the vaſ<g ref="char:EOLhyphen"/>ſals of the Divell.</p>
+            <p>He who thinks I attribute too much to the former kinde of Wiſdome and Wiſe-men, let him inquire what the <hi>Gymno<g ref="char:EOLhyphen"/>ſophists</hi> in <hi>Ethiopia</hi> were, and the <hi>Brachmanni</hi> in <hi>India;</hi> what the <hi>Babilonian</hi> and <hi>Perfian Magi</hi> were, and he will thinke I have beene too ſparing in their commendation. Thoſe were foure Schooles of Wiſe-men famous throughout the World; and of them were theſe Wiſe-men, who move the queſtion in my Text. Thoſe Wiſe-men of the Eaſt, as they exceeded all the World beſide in other wiſedome and knowledge, ſo in <hi>Astro<g ref="char:EOLhyphen"/>nomie</hi> and <hi>Astrologie;</hi> whence they are thought by ſome to be called <hi>Magi</hi> of <hi>Magog,</hi> one of ths ſeven Cities of note in <hi>Aſia,</hi> famous for that Science. And therefore <hi>Magog</hi> is thought to have the name in the <hi>Ebrew,</hi> becauſe from the Houſe-tops (ſo <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies) which of old were made plaine and flat, they were wont to contemplate and behold the Starres and Mo<g ref="char:EOLhyphen"/>tions of the Heavens, and thence to praiſe God in his Works. Of this Profeſſion, though not of this Citie, were thoſe <hi>Magi</hi> in my Text. Such Wiſe-men they were as knew God, and the inviſible things of God, being cleerly ſeene and underſtood from the Creation of the World, by the things that are made; as his eternall power and God-head. And thus knowing God they glorified him as God, <hi>Rom.</hi> 1. Such as were not hea<g ref="char:EOLhyphen"/>rers of the Law, but doers of it: ſuch as having not the Law, were a Law unto themſelves, ſhewing the worke of the Law written in their hearts, <hi>Rom.</hi> 2.14, 15. Such as were faithfull in little; and therefore God imparted more unto them; ac<g ref="char:EOLhyphen"/>cording to that generall and never failing rule, <hi>Habenti dabi<g ref="char:EOLhyphen"/>tue,</hi> To him that hath, <hi>that is,</hi> uſeth what knowledge, grace and ſtrength he hath, ſhall more be given. Yea, to ſuch a Ple<g ref="char:EOLhyphen"/>rophory and full perſwaſion of Divine truth they had attain<g ref="char:EOLhyphen"/>ed, that they made not any queſtion, whether Chriſt were borne the <hi>King of the Jewes,</hi> or no, that they tooke for granted, but asked, where he was borne; <hi>Where is He that is borne, &amp;c.</hi>
+            </p>
+            <pb n="5" facs="tcp:116094:7"/>
+            <p>But how came they ſo confident? They ſaw His Starre in the Eaſt: there's their firſt Reaſon, from the impulſive cauſe. But is it ſatisfactory? For explication of this Reaſon, it's ne<g ref="char:EOLhyphen"/>ceſſary we ſatisfie theſe Queſtions.</p>
+            <list>
+               <item>1. How knew they the King of the <hi>Jewes?</hi>
+               </item>
+               <item>2. How was this Starre His?</item>
+               <item>3. How knew they this Starre to be His?</item>
+               <item>4. From what part of the Eaſt came they, where they ſaw His Starre?</item>
+            </list>
+            <p n="1">1. How knew they Him? Who was their Teacher, Tutor, or Counſellour?</p>
+            <p>They had two ſorts of Counſellours or Teachers; one in<g ref="char:EOLhyphen"/>ward, that was God the Father: They kept his Law, and his Law was their Schoolemaſter unto Chriſt, <hi>Gal.</hi> 3.24.</p>
+            <p n="2">2. 'Tis probable they had outward Teachers, Tutours and Counſellours, both <hi>Balaams</hi> Propheſie, who came out of the Eaſt, <hi>Num.</hi> 23.7. out of <hi>Chaldea,</hi> &amp; his Propheſie was wel known there, a moſt antient Propheſie of Chriſt, and the Starre in my Text, <hi>Num.</hi> 24.17. <hi>There ſhall come a Starre out of Jacob, and a ſep<g ref="char:EOLhyphen"/>ter ſhall riſe out of Jſrael,</hi> the word is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which in the firſt ac<g ref="char:EOLhyphen"/>ception ſignifies a yong tender plant, even that which <hi>Eſ.</hi> 11.1. cals <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <hi>Jer.</hi> 23.5. <hi>&amp;</hi> 33.15. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which we turn a Branch, a Branch from his roots, &amp; a Branch of Righteouſneſſe, though neither word properly ſignifies a Branch; for a Branch growes not up from the root of the tree, but a tender Plant, a ſucker, a ſhoot, a ſpringet. But for more proof, the 70. turn the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and the Vulgor Latin, <hi>Homo,</hi> even the man Chriſt Jeſus, He ſhould riſe out of <hi>Iſrael,</hi> and <hi>ver.</hi> 19. <hi>out of Iacob ſhall come he that ſhall have dominion, Dan.</hi> 7.14. This Propheſie of <hi>Ba<g ref="char:EOLhyphen"/>laam</hi> 'tis probable, they knew, and the man that ſhould have Dominion, even he that ſhould be born <hi>King</hi> of the <hi>Jewes.</hi>
+            </p>
+            <p>This was one of their Tutors or Counſellors. Another kinde of Counſellors probably they had, the <hi>Sibyls</hi> (though ſome learned men undervalue their authority) &amp; their oracles: And the very word <hi>Sibylla</hi> ſignifies <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the counſell of God. Ten of theſe were famous throughout the world; all of them
+<pb n="6" facs="tcp:116094:8"/>
+               <hi>Magae</hi> or <hi>Propheteſſes,</hi> and the moſt of them Propheſied moſt plainly of Chriſt, as the <hi>Cumana Sibylla</hi> in the time of <hi>Tarquini<g ref="char:EOLhyphen"/>us Priſcus,</hi> whoſe maine Propheſy was of theſe times.</p>
+            <q>
+               <l>Magnus ab integro ſeclorum naſcitur ordo;</l>
+               <l>Jam redit &amp; virgo; redeum Saturnia regna,</l>
+               <l>Jam nova progenies coelo demittitur alto.</l>
+            </q>
+            <p>But more manieſſtly the <hi>Sibylla Erythraea</hi> to this effect that in the laſt days God ſhould be humbled; the Son of God made man; the Deity united to the humanity; and ſhould be brought forth and nouriſhed by a Virgin. This <hi>Sibyll</hi> and her Propheſies 't<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s likely were well knowne in the Eſtern parts of the world, whence theſe Wiſe men came.</p>
+            <p n="2">2. But how was this his <hi>Starre?</hi> not as if the other <hi>Starres</hi> were not alſo his, but as <hi>John</hi> the Baptiſt was his Angel, and ſent for this purpoſe, to give teſtimony unto Chriſt, and to prepare his way; and having ſo done, be finiſhed his courſe, and was taken away: ſo this new <hi>Star</hi> gave notice of the new man comming into the world, &amp; guided the Wiſe men to him, and ſo vaniſhed away; and in that reſpect its ſaid to be His.</p>
+            <p n="3">3. But how knew theſe wiſe men that this was his <hi>Sarre?</hi> there is a tradition ſaid to be own'd by ſome of the Fathers (Saint <hi>Chryſoſtom</hi> is named) That in the Eaſt in a Citty called <hi>Sheth</hi> neer the <hi>Ocean,</hi> a ſociety of men, 12. in number, Students in <hi>Aſtronomy,</hi> learning out of <hi>Balaams</hi> Propheſie, that ſuch a <hi>Star</hi> was to appear, they ſet themſelves to obſerve the heavens, and waite for the appearing of it, and that when any of the Soci<g ref="char:EOLhyphen"/>ety died, others we<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e choſen in their room; this number of Students ſo continued in their obſervation for many ages, un<g ref="char:EOLhyphen"/>till at length the <hi>Starre</hi> appeared unto them.</p>
+            <p>Now that this <hi>Starre</hi> appeared not in a corner, <hi>Chalcidius</hi> a <hi>Platonies</hi> Philoſ, pher who lived at the time when our Lord was made manifeſt in the fleſh, he writing upon <hi>Plato's Timaeus,</hi> concerning divers Starres and their direfull effects, as Plagues and Warres, hath theſe or the like words; There is, ſaith he,
+<pb n="7" facs="tcp:116094:8"/>a more holy and Divine Hiſtory, which reports, that, by the appearing of a certaine extraordinary Starre, not diſeaſes and death was foreſhown, but the venerable deſcent of God for mans ſalvation; which Starre was obſerved by the <hi>Chaldeans,</hi> who worſhipped God new borne and become man, and offered him gifts. So he. There remaines yet one Queſtion to be an<g ref="char:EOLhyphen"/>ſwered.</p>
+            <p n="4">4. From what part of the Eaſt came they?</p>
+            <p>Here I finde a difference. Some ſay from <hi>Perſia,</hi> becauſe that is full Ea<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m <hi>Jeruſalem.</hi> And the <hi>Perſian</hi> Kings were wont (ſaith <hi>Plato</hi> in his <hi>Alcibiades</hi>) to traine up their Sonnes, who ſhould ſucceed them in the Kingdome, in Naturall Magicke. But not onely in <hi>Perſia,</hi> but alſo in other parts of the Eaſt and in <hi>Egypt,</hi> th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y had their <hi>Magi;</hi> and out of their <hi>Magi</hi> or Wiſe<g ref="char:EOLhyphen"/>men, were choſen their Prieſts, and out of their Prieſts their Kings, as the name of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> imports.</p>
+            <p>It ſeemes to me moſt probable that theſe Wiſe-men came out of <hi>Arabia Pelix,</hi> for the <hi>Chaldeans</hi> and <hi>Arabians</hi> were much given to the ſtudy of <hi>Aſtrologie</hi> before the <hi>Perſians</hi> were, and more famous for it. Such <hi>Magi</hi> were <hi>Job</hi> and his friends, ſaith <hi>Clemens Alex. Job</hi> being reported to be a man perfect and up<g ref="char:EOLhyphen"/>right, fearing God and eſchewing evill, and the greateſt of all the men in the Eaſt, and neighbours they were to the <hi>Sabeans</hi> and <hi>Chaldeans,</hi> as the <hi>Arabians</hi> are.</p>
+            <p>Beſides, the Propheſie is well known <hi>Pſalm</hi> 72.10. <hi>The Kings of Tarſhiſh and the Iſles, the Kings of Sheba and Saba ſhall being gifts.</hi> Where the Kings of <hi>Tarſhiſh,</hi> being the Kings of the North, the Iſles Importing the Kings of the Weſt, <hi>Saba</hi> implying the Kings of the South, there's none left for the Kings of the Eaſt, but <hi>Sheba</hi> which is rendred <hi>Arabia.</hi>
+            </p>
+            <p>But the gifts which they bring, diſcover whence they came; it was the cuſtom of the Eaſt to bring Preſents to thoſe whom they acknowledged their Kings, as might be ſhowne at large. And preſents were wont to be ſuch as the Land afforded. <hi>Take for the man, ſaith Jacob, of the beſt Fruits of the Land, in your veſſels, and carry him downe a Preſent, Gen.</hi> 43.11. That part of <hi>Arabia</hi> ſo
+<pb n="8" facs="tcp:116094:9"/>abounded with mines of Gold and Silver, and the chiefe of Spices, as appears <hi>Ezech.</hi> 27.22. that from thence it was called <hi>Arabia Faelix.</hi> But becauſe other Countries alſo might afford many of theſe, yet in that they brought Frakincenſe, it's plain, they came out of <hi>Arabia: Thura, praeter Arabiam nullis;</hi> no Countrie yeelds it but <hi>Arabia,</hi> ſaith <hi>Pliny.</hi> And that ſpeciall part of <hi>Arabia,</hi> ſaith <hi>
+                  <g ref="char:V">Ʋ</g>irgil — Solies eſt thurea virga Sabaeis;</hi> whence that part of the Countrie is called <hi>Arabia ſacra, Ara<g ref="char:EOLhyphen"/>bia</hi> the holy, becauſe it yeelded Frankincenſe wont to be burned in their Temples, whence by <hi>Arabici odores,</hi> Frankin<g ref="char:EOLhyphen"/>cenſe is underſtood in <hi>Pomponius Laetus.</hi>
+            </p>
+            <p>Laſtly, that we may prove this, and give light to that which hath been ſpoken, theſe were the ſucceſſors or poſterity of the Sonnes of <hi>Abraham</hi> by <hi>Ketura,</hi> whom he ſent Eaſt-ward into the Eaſt Countrie, <hi>Gen.</hi> 25.6. And therefore <hi>Sheba</hi> is joyned with <hi>Midian</hi> and <hi>Ephah</hi> children of <hi>Abraham,</hi> to whom the Promiſes were made; who, as God foretold, would teach his children, <hi>Geneſis</hi> 18. and it is propheſied by <hi>Eſay.</hi> 60.6. of thoſe or better times of the Goſpell; That the Dromedaries of <hi>Midian</hi> and <hi>Ephab,</hi> all they from <hi>Sheba</hi> ſhall come, they ſhall bring Gold and Incenſe, and they ſhall ſhew forth the Prayſes of the Lord. Hitherto we have heard the Hiſtory of the Text.</p>
+            <p>The Myſtery of it belongs as well to us as to thoſe Wiſe<g ref="char:EOLhyphen"/>men: and wiſe men indeed we ſhall prove our ſelves to be, if we doe as they did.</p>
+            <p>The ſame queſtion belongs to us: <hi>Where is He that is born King of the Jewes?</hi> And the ſame reaſon we have to move it. In the Queſtion, we have the ſame <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the ſame thing ſup<g ref="char:EOLhyphen"/>poſed and granted, and the ſame <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the ſame thing put to the queſtion.</p>
+            <p n="1">1. The ſame <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or thing granted, that the King of the <hi>Jewes</hi> is born.</p>
+            <p>Whence we may take notice how farre nature holpen by art, and tradition, may goe. It cannot be denyed, but that theſe <hi>Magi</hi> knew: firſt, that there was a child born: ſecondly, that He was a male child: thirdly, that He was to be a King;
+<pb n="9" facs="tcp:116094:9"/>fourthly, that particularly He was to be a King of the <hi>Iewes,</hi> why Art ſhould be excluded wholy from the cogniſance of Nativities, or of Kings and States, I cannot ſee, ſince Predi<g ref="char:EOLhyphen"/>ctions according to precepts of Art, for many ages known and approved, have been found ſo true.</p>
+            <p>Indeed the object here and the means alſo were extraordi<g ref="char:EOLhyphen"/>nary, a new Starre: yet was that a naturall helpe; and ſeems to evict thus much; that the well grounded Scholars of Nature and Art, eſpecially being wiſe, honeſt, and vertu<g ref="char:EOLhyphen"/>ous perſons, and faithfull according to what they know, (as probably theſe might know ſomewhat by tradition, as hath been ſhewn) ſuch may underſtand many things out of the face of heaven, when the aſpect is ordinary: For ſo the Stars are made not onely for Seaſons, but alſo for Signes, <hi>Gen.</hi> 1.14. which if they ſignifie not, how are they Signes? yet hence I would infer no more then the Text will bear. Alſo when the Aſpect is extraordinary and new, ſuch as this Star was. And the reaſon is; That, it being the Creators end, that ſuch his extraordinary creatures ſhould portend and ſignifie ſome good or evill to the world, that extraordinary work of God ſhould be in vaine, and that end of God which he aymes at, fruſtrate, eſpecially unto thoſe who want His Word, if none among them ſhould underſtand what is thereby ſignified and foretold.</p>
+            <p n="2">2. The light of Nature and Art being further illuſtrated, and holpen by grace, may diſcerne ſpirituall things out of the book of Nature; as theſe <hi>Magi</hi> did diſcern from this Star, by the help of Gods gracious illumination; That not an outward and civill, but a ſpirituall King, a <hi>Meſſiah,</hi> and Saviour was now born to the <hi>Iewes.</hi> Which the rather I ob<g ref="char:EOLhyphen"/>ſerve, and commend unto them to think of, who would ex<g ref="char:EOLhyphen"/>clude all the Heathen from ſalvation, becauſe they have not the ordinary means, the outward Preaching of the Word to gvide them; as if the onely wiſe, and gracious God were li<g ref="char:EOLhyphen"/>mited, and bound to inſtruct and ſave that way onely. Saith not the Apoſtle expreſly, that when the <hi>Gentiles,</hi> who have
+<pb n="10" facs="tcp:116094:10"/>not the Law, do by Nature the things contained in the Law, theſe having not the Law, are a Law unto themſelves? where <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Nature is not oppoſed to <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Grace, but to <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the Law, and written Word of God. Not but that we ought exceedingly to praiſe our God, and highly to eſteem of his ſpeciall goodneſs unto us, in affording us his written word, for which bleſſing holy <hi>David</hi> in ſpeciall manner praiſeth God, and exhorteth us ſo to do, <hi>Pſal.</hi> 147.19, 20. But with all, it becomes us alſo to acknowledg the riches of his mercy, even unto thoſe who want the outward word and miniſtry thereof. But that the outward word and preach<g ref="char:EOLhyphen"/>ing of it, is not the onely outward meanes leading to ſalva<g ref="char:EOLhyphen"/>tion, the <hi>Apoſtle</hi> teacheth evidently, 1 <hi>Peter</hi> 3.1. <hi>If any o<g ref="char:EOLhyphen"/>bey not the word, they alſo may</hi> without the Word, <hi>be won by the con<g ref="char:EOLhyphen"/>verſation of the wives.</hi> So powerfull is life, which therefore <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is called <hi>the light of men, Joh.</hi> 1.</p>
+            <p>Yea, it is undeniable, that theſe men had attained unto a greater meaſure of knowledg, touching ſome divine Myſte<g ref="char:EOLhyphen"/>ries than the <hi>Apoſtles</hi> themſelves, even after the day of <hi>Pente<g ref="char:EOLhyphen"/>coſt.</hi> Theſe <hi>primitiae Gentium,</hi> the firſt fruits of the <hi>Gentiles,</hi> knew now their own calling, which St. <hi>Peter Act.</hi> 10.34, 35. then began to know, when he had ſeen a viſion from heaven. And St. <hi>Paul</hi> very highly eſteems the revelation of this my<g ref="char:EOLhyphen"/>ſtery made known unto him, <hi>Epheſ.</hi> 3.2.9.</p>
+            <p>Hitherto we have ſeene how the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or thing granted in the queſtion concerns us. The <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or thing put to the queſtion, as neerly concernes us alſo. They ſay, Where is He that is born the King of the <hi>Jews?</hi> where we may take notice:</p>
+            <p n="1">1. Theſe <hi>Magi,</hi> theſe wiſe men inquiring, where Chriſt was born, they were not of the <hi>
+                  <g ref="char:V">Ʋ</g>biquitaries</hi> faith, they be<g ref="char:EOLhyphen"/>lived not that Chriſts body could be every where; for they ask, <hi>where is he.</hi>
+            </p>
+            <p n="2">2. Our God would have the fame of his Sons <hi>incarnation</hi> ſpread not onely at <hi>Bethlehem,</hi> but at <hi>Jeruſalem</hi> the mother City, and all <hi>Judea.</hi>
+            </p>
+            <pb n="11" facs="tcp:116094:10"/>
+            <p n="3">3. At <hi>Jeruſalem</hi> they ask this queſtion: Of whom? wiſe men propound queſtions unto men fit and able to anſwer them, who were here the inhabitants of <hi>Jeruſalem,</hi> and the wiſe &amp; lear<g ref="char:EOLhyphen"/>ned of them. Whence we may note, that the wiſe in every kinde are perſons meet to be adviſed withall, in doubts of all ſorts, and the ſpiritual wiſe in ſpirituall difficulties. It is Gods Ordinance, <hi>Iſaiah</hi> 2.1.2.</p>
+            <p n="4">4. Both Nature &amp; Art may be at a ſtand in ſpiritual things, eſpecially concerning Chriſt; which, as the <hi>Apoſtle</hi> witneſſes, are very myſterious, <hi>Epheſ.</hi> 3.4. 1 <hi>Tim.</hi> 3.16.</p>
+            <p n="5">5. When Nature and Art are at a loſs, they muſt be holpen by Grace. And therefore the Wiſe men hoping well of the <hi>Jewes,</hi> as Gods peculiar people, goe to <hi>Jeruſalem,</hi> now cor<g ref="char:EOLhyphen"/>rupted, and conſult with them. Who yet give us example, and teach us to adviſe with men holy and wiſe in the Lord; eſpecially to travell to the City of God, the heavenly <hi>Jeru<g ref="char:EOLhyphen"/>ſalem, and enter into the Sanctuary, Pſal.</hi> 27.4. and 73.16, 17. and 122.4.</p>
+            <p n="6">6. When Gods Prieſts, Prophets and Teachers are aſleep, ſtrangers come and awake them.</p>
+            <p n="7">7. Nature and Art may be good handmaids unto Grace, and do <hi>Jeruſalem</hi> good ſervice.</p>
+            <p n="8">8. Here is the accompliſhment of <hi>Iacobs</hi> Propheſie, <hi>Gen.</hi> 49. <hi>When the Scepter was departed from Judah, and a Lawgiver or Ruler from between his feet, then muſt Shilo come,</hi> and not till then; And thus it was now with <hi>Iſrael:</hi> They had no King. <hi>Herod</hi> was a ſtranger, an <hi>Edomite,</hi> an earthly one; And therefore the Star ſhewed as well as the Propheſie, that their ſpiritual <hi>Meſ<g ref="char:EOLhyphen"/>ſiah</hi> was come.</p>
+            <p n="9">9. When God takes away the outward honor, power, Kingdom and dignity from his people, it is becauſe He would beſtow an inward and ſpirituall in the roome of it. They had now no outward Prince of their own; now there<g ref="char:EOLhyphen"/>fore the Lord makes known unto them <hi>Meſſiah,</hi> the Prince, the true King of the <hi>Jewes,</hi> the King of <hi>Iſrael.</hi>
+            </p>
+            <p n="10">10. Nature and Art though illuſtrated by grace in ſome
+<pb n="12" facs="tcp:116094:11"/>meaſure, may yet be at a loſs, as theſe <hi>Magi</hi> were, concerning the place of Chriſts Nativity and preſent abode.</p>
+            <p n="11">11 Many know, that Chriſt is ſomewhere born, but where and among what people, they know not.</p>
+            <p n="12">12. The ignorance of ſomething, as where Chriſt is born, muſt not diſcourage us or make us ſlothfull, but ſtir us up the rather to inquire.</p>
+            <p>And let us, I beſeech you, make yet a more ſtrict and narrow ſearch; where, Where ſhall we finde Him that is born King of the <hi>Iewes?</hi> It extreme neerly concernes us all.</p>
+            <p>For, <hi>hereby we know the Spirit of God: Every Spirit that confeſſeth that Ieſus Chriſt is come in the fleſh, is of God: And every Spirit that confeſſeth not that Jeſus Chriſt is come in the fleſh, is not of God; but this is the Spirit of Aniichriſt,</hi> 1 <hi>Ioh.</hi> 4.2, 3. <hi>And know ye not that Chriſt is in you, except ye be reprobates?</hi> 2 <hi>Cor.</hi> 13.5. <hi>But if Chriſt be in you, the body is dead, becauſe of ſin, and the Spirit is life becauſe of righteouſneſs,</hi> Rom. 8.</p>
+            <p>Now, if Chriſt be born in us, He is borne in us at leaſt as a child. And what is moſt notable in a child? is not inno<g ref="char:EOLhyphen"/>cency, ſimplicity, and humility? If therefore Chriſt be a childe born in us, where is his innocency? If uncleanneſs, fornication, adultery, or adulterous thoughts be in us, in<g ref="char:EOLhyphen"/>nocency is not in us, <hi>we are then become not the members of Chriſt, but of an Harlot, and he who toucheth her ſhall not be innocent,</hi> Prov. 6.29. If covetouſneſs be borne in us, Chriſts <hi>innocencie</hi> is not in us, <hi>he that maketh haſt to be rich, ſhall not be innocent,</hi> Prov. 28.20.</p>
+            <p>If rebellion or ſedition be born in us, <hi>Barabbas</hi> may be born in us, Chriſts innocency is not born in us, ſo <hi>Daniel</hi> reaſoned, <hi>Dan.</hi> 6.22.</p>
+            <p n="2">2. If Chriſt as a child be borne in us, where is his ſimpli<g ref="char:EOLhyphen"/>city? If ſubtilty, deceit, and fraud goe not out of our ſtreets, if we circumvent, and go beyond our brother in bargaining, ſo far we are for having Chriſts ſimplicity born in us, that we know not the Father who is the avenger
+<pb n="13" facs="tcp:116094:11"/>of all ſuch, 1 <hi>Theſſ.</hi> 4.5, 6. <hi>If ſo, the Serpent hath beguiled us and corrupted our mindes from the ſimplicity that is in Chriſt,</hi> 2 Cor. 11.3.</p>
+            <p>Thirdly, if Chriſt be a childe born in us, where is his hu<g ref="char:EOLhyphen"/>mility? If our heart be lifted up in us, if we be proud of wealth, or honor, or knowledg, or what ever elſe, where is Chriſts humility? Therefore the bleſſed Virgin when ſhe magnifies the Lord for Chriſt born in her, <hi>He hath regard,</hi> ſaith ſhe, <hi>the lowlineſs of his handmayden,</hi> Luke 1. If neither the innocency, nor ſimplicity, nor humility of the Child Chriſt be born in us, how is Chriſt born in us ſo much as a child?</p>
+            <p>True it is, theſe are but weak, where Chriſt is new born.</p>
+            <p>But let them conſider this, who think they ought alwayes to be ſo weak, and place their ſtrength and power of Re<g ref="char:EOLhyphen"/>ligion in complaining of their weakneſs. Doth the child continue alwayes a child? or doth he grow up to greater age and ſtrength? <hi>Eph.</hi> 4.14, 15.</p>
+            <p>Let them alſo conſider this, who although they want the innocency, ſimplicity, and humility of the Child Chriſt, yet preſume themſelves able and well grown Chriſtians, yea, ſuch are grown up to the <hi>Old age</hi> of Chriſt. Why? becauſe they finde the fleſh rebell againſt the Spirit, and the Spirit againſt the fleſh; which they take for a ſigne of a per<g ref="char:EOLhyphen"/>fect regenerate man. He who thus judgeth of himſelf, as I fear too many do, let him know, that he is but yet a childe, a little child, if ſo much in Chriſtianity. And for proof of this, compare, I beſeech yee <hi>Gal.</hi> 4.19. with <hi>cap.</hi> 5.17.</p>
+            <p>But though Chriſt be born as a Child, yet is He then a King. Is the child Chriſt born a King in thee? Where Chriſt is born a King, there He muſt reign, <hi>Iſaiah</hi> 9.6. <hi>
+                  <g ref="char:V">Ʋ</g>nto us a Child is born, &amp;c. and the Government is upon his ſhoulder, &amp;c.</hi> Does this King reign, bear rule, and govern thee and me? Where He reignes, the wilde paſſions, the brutiſh and ſavage affections; as hatred, variance, emulation, wrath, ſtrife, &amp;c. they are tamed and brought into ſubjection under the
+<pb n="14" facs="tcp:116094:12"/>Child that is born a King, <hi>Iſaiah</hi> 11.6. In the dayes of Chriſt, (ſo it is in the <hi>Chaldy</hi> Paraphraſt) <hi>The Wolfe ſhall dwell with the Lamb, and the Leopard ſhall lye down with the Kid, and the Calf and the young Lion, and the fatling together, and a</hi> little Child ſhall <hi>lead and govern them,</hi> Proverb. 20.8.</p>
+            <p>And therefore Chriſt is called the King of the <hi>Iewes.</hi> What is that to us? The true <hi>Iewes</hi> are they who praiſe and glorifie their God, <hi>Geneſts</hi> 29.35. He is not a <hi>Iew,</hi> who is one outwardly, neither is that Circumciſion, which is out<g ref="char:EOLhyphen"/>ward in the fleſh, but he is a <hi>Iew</hi> who is one inwardly, and Circumciſion is that of the heart and Spirit, and not in the Letter, <hi>whoſe praiſe is not of men, but of God, Rom.</hi> 2.28, 29. Of ſuch <hi>Iewes,</hi> Jeſus is the King.</p>
+            <p>Ye perceive <hi>(Beloved)</hi> how neerly the Wiſe mens Queſtion concerns us. So do their Reaſons.</p>
+            <p>Firſt, they ſaw His Star. Whence we may:</p>
+            <p>Firſt, obſerve the method of our God, in bringing men unto Chriſt: He takes men at their work. The Shepherds were feeding of their flocks by night, and the Angel of the Lord brought them the firſt glad tidings of Chriſt coming in the fleſh, <hi>Luke</hi> 2. The Apoſtles were at their trade a fiſhing, and Chriſt called them. Theſe Wiſe men were behol<g ref="char:EOLhyphen"/>ding the Stars, and giving glory unto God, and God, by a Star leads them unto Chriſt.</p>
+            <p>Secondly, take notice of Gods gracious condeſcent unto Mankinde: He takes men by their worke and by their pro<g ref="char:EOLhyphen"/>feſſion, <hi>Pſal.</hi> 78.70. <hi>He choſe David his ſervant, and tooke him from the Sheepfolds, from following the Ewes great with yong; He brought Him to feed</hi> (or to rule) <hi>Iacob his People, and Iſrael his inheritance.</hi> He tooke the Apoſtles being Fiſher-men, and made them Fiſh<g ref="char:EOLhyphen"/>ers of men, <hi>Luke</hi> 5.10. Thus <hi>Dionyſius</hi> the <hi>Areopagite</hi> was firſt brought on his way toward Chriſt, the Sonne of righteouſ<g ref="char:EOLhyphen"/>neſſe, by the beholding that ſupernaturall Ecllpſe of the Sun at the Paſſion of Chriſt; as He brought theſe Aſtronomers by a Starre. And this I take to be one principall reaſon, why Chriſt himſelfe, his Kingdome, his Word, the Miniſters of it,
+<pb n="15" facs="tcp:116094:12"/>and all meanes of Salvation are repreſented unto us by ſo many Metaphors; God graciouſly condeſcending to come home unto us, to take us at our trades, at our callings, at our ſeverall profeſſions, and all, to bring us, as He brought the Wiſe men here by a Star unto Chriſt.</p>
+            <p>Thirdly, God cals not men <hi>per ſaltum,</hi> nor all at once, and <hi>extempore;</hi> but by degrres. The Shepheards had an An<g ref="char:EOLhyphen"/>gell to preach the Goſpel unto them, the immediate outward meanes of ſalvation: theſe Wiſe-men had a Starre; a meanes alſo, but more remote. The Shepheards lived in the Church, were well prepared; the Wiſe-men were ſtrangers to it; yet <hi>utraque lingua de coelo erat &amp; ſtellae &amp; Angelorum,</hi> as one of the Ancients ſpeakes, God taught from heaven both by Starre and Angels.</p>
+            <p>Fourthly, theſe had a Starre, and but a Starre; <hi>and they came to worſhip Him.</hi> That's the ſecond reaſon of theſe Wiſe<g ref="char:EOLhyphen"/>men. O the ſloathfulneſſe of moſt men in theſe dayes! we have not onely the booke of Nature open to us, as theſe Wiſe-men had, but the Grace of God alſo hath appeared, and the Goſpell, and glad tidings of Chriſt hath been preach<g ref="char:EOLhyphen"/>ed unto us now all our dayes; yet how few, alas, how few obey the Goſpell of Chriſt? God gives us his Word, and great is the company of thoſe who publiſh it; and a great deale of Preaching we have, and a great deale of hearing, and a great deale of talking; yet how few, alas, how few come unto Chriſt, as theſe Wife. men did, to whom God gave neither Preacher nor Word. Onely it is probable, a tradition they had, and but probable; they thention it not, onely they ſaw a Starre, and came along journey to worſhip Chriſt.</p>
+            <p>Beloved! I blame not now our want of diligence in com<g ref="char:EOLhyphen"/>ing to Church, nor in ſeeking Chriſt any other way abroad, and without us. Theſe things we may do, and good means they are in their kinde and degree: yet may we uſe them all, and that diligently, and yet 'tis poſſible we may not come unto Chriſt. Mark, I pray, what our Saviour ſaith
+<pb n="16" facs="tcp:116094:13"/>to the <hi>Iewes, Iohn</hi> 5.39, 40. <hi>Yee ſearch the Scriptures</hi> (ſo the <hi>Greeke</hi> word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is rather Indicatively then Imparatively there to be underſtood, as the Text will appeare to any judi<g ref="char:EOLhyphen"/>cious man, who ſhall well conſider it;) <hi>Yee ſearch,</hi> ſaith he, <hi>the Seriptures, for in them yee thinke to have eternall life; and they are they which teſtifie of me; and yee will not come unto me, that yee might have life.</hi> To come unto Him, is to beleeve on Him, <hi>Iohn</hi> 6.35. to conforme themſelves unto his death, that as Chriſt lives, they might live alſo. <hi>This is</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>a faithfull ſay<g ref="char:EOLhyphen"/>ing, if we dye with Him, we ſhall live with Him,</hi> 2 Timothy 2.11, 12. <hi>even that life of God from which we are eſtranged,</hi> Epheſ. 4. Thus the <hi>Iewes</hi> came not unto Chriſt, nor, I feare, many of us.</p>
+            <p>Theſe Wiſe-men came unto Chriſt by the guidance of a Starre, and their example may juſtly blame the unwiſe, who aſcribe their not comming unto Chriſt, to fatall neceſſity or influences of the Stars: As <hi>Tertullian</hi> reports of ignorant men, <hi>Deonerant ſeipſos, &amp; malae mentis impetus vel fato vel Aſtris imputant:</hi> They excuſe themſelves and lay the blame of their evill minds upon fatall neceſſity, or upon the Starres.</p>
+            <p>As for fatall neceſſity, let them anſwer &amp; ſatisfie theſe com<g ref="char:EOLhyphen"/>plaints, who are ignorant of Gods Government, of the world by Starres and Angels; and therefore of all other men, moſt op<g ref="char:EOLhyphen"/>poſe <hi>Aſtrologie.</hi> Theſe are they who faigne a compendious and peremptory decree of God, without conſideration of ſinne voluntarily committed, to ſave a few, and damn all the world beſide. Let theſe, if they can, ſatisfie thoſe who complain of fate and deſtiny.</p>
+            <p>I ſhall rather endeavour to ſatisfie their cavill, who lay the blame of their not comming unto Chriſt, upon the Starres and their influences; yea, and upon Aſtrologicall judgements of their effects.</p>
+            <p>True it is, Aſtrologie is that Art or Science, which enables and teaches men to judge and foretell naturall effects, and changes to come, in the Elements and Elementary bodies, by their motions, configurations, and influences of the Signes,
+<pb n="17" facs="tcp:116094:13"/>Starres and Planets; yet neither are the influences, merell leſſe the judgements and predictions of their effects, the cauſes of finne, or any hinderances why we may not come unto Chriſt, as theſe wiſe men did.</p>
+            <p>It cannot be denyed, but influences there are of the hea<g ref="char:EOLhyphen"/>venly bodies benigne, and comfortable to the inſeriour crea<g ref="char:EOLhyphen"/>tures, as thoſe of the <hi>Pleiades, Job.</hi> 38.31. <hi>Thoſe of the San and Moon, Deut.</hi> 33.14. <hi>Yea, of the whole Heaven, Hoſ.</hi> 2.21. <hi>There are influences deſtructive unto wicked men, Judg.</hi> 5.20. <hi>The Starres in their courſes ſunght againſt</hi> Siſera. And all theſe influences are conveyed unto this lower world acted by them. Whence the <hi>Cabaliſts</hi> ſay, that there is <hi>Grater ſuperior,</hi> an heavenly Veſſell, which empties it ſelfe in <hi>craterem inferiorem</hi> into the lower Veſſell, even all the elementary world, which receives what is emptied from heaven unto it; that <hi>Omnes res inferiores repre<g ref="char:EOLhyphen"/>ſentativae ſuntiſuperiorum,</hi> that, as every herb hath it's viſible ſig<g ref="char:EOLhyphen"/>nature, which diſcovers it uſefull for one or other part of the body; ſo hath every one an influence from it's proper Starre, and Angell governing it; yea, <hi>Omneores animdto habet à caelo ſtellam ad ſe inſtuneem;</hi> yea, that there is neither herb, nor plant nor ſtone, nor minerall, nor man, nor beaſt which receive not the influences from the Starres.</p>
+            <p>Now though there be ſuch powerfull influences, yet doe not theſe hinder our comming unto Chriſt. For howſoever by our fall, according to the firſt <hi>Adam,</hi> our nature is depra<g ref="char:EOLhyphen"/>ved, and that primative Symmetry &amp; harmony between heaven and earth, diſſolved and loſt, whence the creature is ſubject to vanity, yet as we recover our ſelves out of the fall through the power of faith in the ſecond <hi>Adam,</hi> all thoſe deſtructive and noxious influences looſe their power upon us. Meantime they cannot truly be ſaid to be the cauſe of finne unto us.</p>
+            <p>For neither Sun, nor Moon, nor other Planet, nor Starres, nor Conſtellations, nor Angels acting them, can do any thing in this Elementary world, otherwiſe then a Lute, or other Muſtcall inſtrument can be ſaid to make harmony of it ſelfe alone, without the touch of the skilfull Lutaniſt. And ſuch inſtruments alſo are all theſe, whoſe harmonicall motions
+<pb n="18" facs="tcp:116094:14"/>wholly depend on him; who doth according to his will, both in the army of Heaven, and the inhabitants of the Earth, <hi>Dan.</hi> 4, 35. So that if we blame the Starres, we muſt lay the change higher, as either upon God himſelfe, or upon the An<g ref="char:EOLhyphen"/>gels His immediate inſtruments, who act by the Stars. Wee cannot juſtly lay the blame on God: For let no man ſay, when he is tempted, I am tempted of God, &amp;c. <hi>Jam.</hi> 1.13. No, <hi>ſay not he hath cauſed me to erre.</hi> Eccleſi. 15.12. <hi>For he hath no need of the ſinfull man.</hi> So contrary is this to their aſſertion, that God in great wiſedome contrived a way to bring ſinne into the world, that hereby he might glorifie his juſtice. <hi>Ab<g ref="char:EOLhyphen"/>ne ſimus tam ſatui adulatores Dei.;</hi> ſaith St. <hi>Hierom,</hi> Gods juſtice ha's no need of our lies. Nor can our ſin be imputed to the An<g ref="char:EOLhyphen"/>gels, <hi>whoſe property it is to doe his Commadement, and harken to the voyce of his Word,</hi> Pſal. 103.20.21. When men are driven from thefe vaine refuges, they commonly lay the blame upon the Devill. The Devill, they ſay ought them a ſpight. True it is, the Prince of the Aire rules in the Sonnes of diſobedi<g ref="char:EOLhyphen"/>ence, but the Sonnes of diſobedience firſt yeild up the rule of themſelves to the Prince of the Aire. The Devill rules in them, but firſt luſt rules in their members. The Devill takes them, captive at his will, but firſt they yeild themſelves captive of their owne will. And therefore our Saviour who attributes the luſts of wicked men unto the Devill; He attributes withall the luſts of the Devill unto wicked men, when they freely and willingly commit them. Ye are, ſaith He, of your Father the Devill, and the luſts of your Father ye <hi>will</hi> doe. The words in our Engliſh are obſcure: The Greek words are, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The luſts of your Father ye <hi>will,</hi> ye have a luſt to doe, <hi>Joh.</hi> 8.44. So true is that of St. <hi>Auſtin; Falſo de natura ſua aut ſtellarum influxu conquerun<g ref="char:EOLhyphen"/>tur mortales, quod peccatum adeò voluntarium eſt, quod ſi non vo<g ref="char:EOLhyphen"/>luntarium, non eſt peccatum.</hi> The Apoſtle referrs all to the true Originall, Rom. 6.19. <hi>Ye have yeilded your members ſervants to uncleanneſſe and to iniquitie.</hi>
+            </p>
+            <p>Yea, juſtly we may lay all the blame of the Starres malig<g ref="char:EOLhyphen"/>nant influence upon our ſelves, and our owne perverſe will
+<pb n="19" facs="tcp:116094:14"/>We our ſelves furniſh the Aſtrologers, the Chiromantes, and Phyſiognomers with matter of prognoſtication and predicti<g ref="char:EOLhyphen"/>on. For although the Stars incline, and be apt to raiſe vicious paſſions, and affections, in one ſadneſſe and melancholique thoughts; in another wrath, in another wanton love, which the Aſtrologer well knowes, in the nature of thoſe influences, we readily yeild unto thoſe influences, though there be in us the power of God through faith to lay thoſe turbulent Spirits, &amp; break their force and vigor. And by this cowardly yeilding, we make the Aſtrologer ſpeake truth, who otherwiſe, by our reſiſting the temptation and ſuggeſtion unto ſinne, would eaſi<g ref="char:EOLhyphen"/>ly be deceived. So true is that,—<hi>ſapiens dominabitur aſtris.</hi> A wiſe man over-rules the influences of the Stars.</p>
+            <p>And this truely to me is an argument, that the preſent ge<g ref="char:EOLhyphen"/>neration of men, in this I and is, and hath beene extreamly brutiſh, corrupt and ſenſuall; and withall, that the principles of Aſtrologie are ſirme and good, in that their predictions and prognoſtications touching this preſent'age, have proved ſo true, which never could have come to paſſe; had men acted according to the principle of chriſtian faith and right reaſon, and not <hi>ſecundum id bruti,</hi> according to their brutiſh and corrupt nature in them.</p>
+            <p>To conclude all, ſuffer, I beſeech ye the word of exhortation, yea, eſpecially who profeſſe yourſelves followers of theſe magi, theſe wiſe men in the Text: Do ye as they did; Be ye guided by the Stars unto Jeſus Chriſt, ſeek yee him who made the ſeven Stars, and <hi>Orton, Amos,</hi> 5.8. And as it is a lawfull, yea, and hono<g ref="char:EOLhyphen"/>rable ſcience, which ye profeſſe, ſo uſe it lawfully, uſe it to the honour of God, and the good of mankinds.</p>
+            <p>All lawes preſcribe bounds and limits, <hi>ultra quos, citra<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ne<g ref="char:EOLhyphen"/>quit conſiſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere rectum.</hi> Lawes of God, and Lawes of men keepe us within due bounds; and we ought to be ſubject to every Ordinance of man for the Lord ſake. Tranſgreſſe not there<g ref="char:EOLhyphen"/>fore the due bounds of your Art, by any undue practice of it. make not the planets and conſtellations the immediate neceſ<g ref="char:EOLhyphen"/>ſary cauſes of humane actions. Search not too farre into parti<g ref="char:EOLhyphen"/>cular acts of men, with their events. Make no undue uſe of
+<pb n="21" facs="tcp:116094:15"/>your Art to ſelf intereſts, to covetouſneſſe, pride or vaine glo<g ref="char:EOLhyphen"/>ry. Give not fourth your predictions as oracles, which poſ<g ref="char:EOLhyphen"/>ſibly, ye know, may prove untrue. The higheſt God can, and doth often croſſe the courſe of nature; yea, and oftentimes he produceth that, which could not be foretold by the obſerva<g ref="char:EOLhyphen"/>tion of the Stars <hi>Eſay,</hi> 47.11.12, 13.</p>
+            <p>Deſire not converſe, nor conference with the <hi>Genii.</hi> The evill Angels are ready to transforme themſelves into Angels of light, and obtrude themſelves as helpers, that in the end they may deceive and deſtroy. If thus or any like way, ye go beyond your bounds, ye will give offence to the weake adyer<g ref="char:EOLhyphen"/>ſaries of Aſtrologie; who, though ignorant of your Art, yet many of them, I doubt not, are good meaning men. Yea, ye will give advantage to the common enemy of mankind, That evill Spirit, who ha's his name from fearching <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> from knowing, he having beguild our firſt parents with that ſpecious promiſe, which he never could perform, That they ſhould be as Gods knowing good and evill, he purſues their poſterity, in whom he findes the like deſire, when they doe not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but will be prying into events beyond the Sphere of naturall influences; and becauſe cretainly to foretell contingent good or evill, is the property of God himſelfe, <hi>Eſa.</hi> 41.23. Here, here eſpecially he will be like unto God; and to ſatisfie your curioſitie, will pretend skill toforetell things purely contingent. <hi>Nunc ſpeci<g ref="char:EOLhyphen"/>men ſpecitur, nunc certamen cernitur ſitis nec ne ut eſſe oportet, boni mali cujuslibet.</hi> Here no doubt ye walke in the midſt of ſnares, and upon the battlements of the houſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, as the wiſe man ſpeaks. Some falling by the ill practice of your lawfull Art, have become of <hi>magi, magitians,</hi> and of wiſe men, Wizards. But I hope, yea I know better things of ſome of you, and have good ground to hope the like of all. I underſtand, that of <hi>Sui<g ref="char:EOLhyphen"/>das,</hi> which he ſpeakes of the <hi>Magi</hi> of old in <hi>Perſia,</hi> is true of ye all; That ye are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, lovers of wiſe<g ref="char:EOLhyphen"/>dome, and lovers of God. And that the noble ſcience of Aſtro<g ref="char:EOLhyphen"/>logie, by you, is now to be reſtored unto it's antient luſtre and glory.</p>
+            <pb n="22" facs="tcp:116094:15"/>
+            <p>Laſtly, be we all exhorted to follow the <hi>Magi,</hi> the wiſe men in the Text, to ſeek the Lord Jeſus Chriſt, the King of the Jews; and if we follow theſe wiſe men in the Text, they no doubt will lead us to him.</p>
+            <p>I ſhall uſe no other method then they did; We muſt heed the Law, that is our Schoolmaſter unto Chriſt; <hi>Thus no man c<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mes to him, except the Father draws him, Job.</hi> 6. And heed the propeticall word, which as a light ſhines in a darke place un<g ref="char:EOLhyphen"/>till the day dawn, and the day ſtar (or the Sun, as it is in the Syriac) ariſe in our hearts. For this purpoſe we muſt make uſe of the leaſt helps that God hath given us: uſe our ſenſes and our underſtandings to the fearching of him out in the creature. The heavens declare his glory, and the firmament ſhew his handy worke. <hi>Praeſentemque refert quaelibet herba de<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> When we ſeek him thus with all our heart, God the Father re<g ref="char:EOLhyphen"/>veales the like Starre unto us, that he did unto theſe wiſe men, even the illumination of faith; ſo St. <hi>Anſelm, Rha<g ref="char:EOLhyphen"/>banus</hi> and others underſtand this Star: <hi>For faith is the evidence of things n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t ſeen,</hi> Heb. 11.1. By the guidance of this faith, this Star, we muſt leave our Country, as the wiſe men did, <hi>And as their and our Father</hi> Abraham <hi>did,</hi> Gen. 12. <hi>Who followed this Starre, ſaith the Apoſtle</hi> Heb. 11.8. By faith, <hi>Abraham,</hi> when he was called to go out into a place, which he ſhould after<g ref="char:EOLhyphen"/>ward receive for an inheritance, obey'd, and went out not knowing whither he went. Out of our ſelves wee muſt goe, whither ſoever we goe, otherwiſe there's no comming unto Chriſt. <hi>And walke we muſt in the ſleps of that faith of our Father</hi> Abraham, <hi>Rom.</hi> 4.12. The covetous man muſt forſake his covetouſneſſe, that's his Country; the unclean perſon his la<g ref="char:EOLhyphen"/>ſciviouſneſſe and uncleanneſſe, that his Country, he lives in it; the Drunkard, angry, envious, contentious perſons muſt de<g ref="char:EOLhyphen"/>part out of their drunkenneſſe; their wrath, their envie, their ſtrife; they are their Countries wherein they live.</p>
+            <p>But we muſt not follow theſe wife men too cloſe; They went up to Jeruſalem, out of their humane judgement and good hopes they had of the Jewes. They thought it was moſt likely, they ſhould find the King of the Jewes in the royal City;
+<pb n="23" facs="tcp:116094:16"/>that they ſhould learne where hee was of the learned Scribes; But <hi>humanum ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>agitantes conſilium, divinum amiſere ducatum,</hi> ſaith St. <hi>Bernard.</hi> while they ſought the counſell of men, they loſt the guidance of God, Thus did <hi>Samuel;</hi> but it was while he was but a childe. God called him, and he came to <hi>Eli</hi> the doting Prieſt. <hi>But when God revealed his Son in me ſaith</hi> St. Paul, <hi>I conferred not with fleſh and blood. Gal.</hi> 1. Nor muſt we. Not but that there are learned ſcribes, and they taught unto the Kingdome of God, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is a du<g ref="char:EOLhyphen"/>all, there are good and bad together.</p>
+            <p>The Scribes tell the wiſe men, that the King of the Jewes is borne in <hi>Bethlehem,</hi> the Houſe of Bread. Very fitly was the Bread of life, born in the houſe of Bread, whear the Bread of life is broken. Doe we thus ſeek him? or ſeek we him rather for our own advantage, as ſome ſought him for the loaves, <hi>Iohn</hi> 6. This is to ſeek Chriſt in <hi>Bethlehem,</hi> the houſe of bread, not in <hi>Betulehem Iuda,</hi> but in <hi>Bethlebem</hi> in the tribe of <hi>Zabulon, Ioſh.</hi> 19.15. that is, they ſeek Him for the loaves in their own habitation; thats <hi>Zabulon;</hi> as the <hi>Scribes</hi> who told the Wiſe men that Chriſt ſhould be born in <hi>Bethlehem,</hi> yet they themſelves went not out of their own Town to ſeek Him. Thus without doubt the greateſt part of men ſeek Chriſt; they will not go out of themſelves to finde him; they would have Him come to them in their ſins, in their Countrey; they will not go to Him. This is the reaſon of ſo much ſighing and and groaning, wherein many men place a great part of their religion; they would finde Chriſt, and not depart from their covetouſneſſe their envie, their pride, their hatred, &amp;c. their own Countries: it is impoſſible. While we are yet in our own Country, this bread in hidden <hi>Manna.</hi> There<g ref="char:EOLhyphen"/>fore <hi>Bethlehem</hi> ſignifies alſo the houſe of War, implying thus much unto us, that we cannot feed of the bread of life, unleſs we ſtrive or fight for it: <hi>Labour for that meat that endures unto the everlaſting life.</hi> The Inhabitants of the Iſland <hi>Baleares</hi> gave not their children meat, unleſs by ſlinging they firſt ſtruck it down from ſome high place, where it was lodged.
+<pb n="24" facs="tcp:116094:16"/>He who will not labour, ſhall not eat the bread of life. To theſe the Lord promiſeth refreſhment out of the true <hi>Beth<g ref="char:EOLhyphen"/>lehem. To him that overcometh,</hi> there is <hi>Bethlehem,</hi> the houſe of War, <hi>to him I will give to eat of the hidden Manna;</hi> there is <hi>Bethlehem,</hi> thr houſe of bread, <hi>Revel.</hi> 2.17.</p>
+            <p>But <hi>Bethlehem</hi> was the place where Chriſt was born in the fleſh. Chriſt in theſe laſt dayes is to be born in the Spirit, when Chriſt was born in the fleſh, He was bounded within a certain place: The Wiſe men muſt take a long journey to come and ſeek Him. When he is born in the Spirit, He is not bounded to this or that place, <hi>Matthew</hi> 24.23.26, 27. not here or there, <hi>for as the lightning, &amp;c. The winde or Spirit blows where it liſts,</hi> John 3.8. But if Chriſt be ſo born, how, and where ſhall we finde Him? <hi>Wiſdom ſhe is eaſily ſeen of thoſe that love her, and found of thoſe that ſeek her, &amp;c.</hi> Wiſdom 6.12, 13, 14. Yea, there will be no need of curious ſearching; they who are born of the Spirit, He ſeeks them, <hi>Iohn</hi> 4.23, 24. Yea, when he is thus born according to the Spirit, His preſence will be ſo illuſtrious, he will need no farther de<g ref="char:EOLhyphen"/>monſtration. They in whom He is ſo born, ſhall finde his birth in themſelves yea others alſo ſhall acknowledge it in them. <hi>Eſay,</hi> 61.9.</p>
+            <p>But Chriſts firſt comming in the fleſh was honoured and declared by a new Star; and would not our good God vouchſafe to honour Chriſts ſecond comming and that more gloriouſly in the ſpirit, with a ſtar alſo?</p>
+            <p>Doubtleſſe (beloved) our good Lord hath not been wan<g ref="char:EOLhyphen"/>ting unto us herein, though herein I fear, we have been and are extremely wanting to our ſelves.</p>
+            <p>In the year of our Lord. 1572. There appeared in <hi>Caſſlopeia,</hi> a ſtar of the greateſt magnitude, and far greater then any of that conſtellation. It was obſerved by the moſt ſkilfull and famous Aſtronomers of that time, to hold the ſame Aſpect in all places of Chriſtendome, to run the ſame courſe, to keepe the ſame proportion, diſtance and ſituation every where, and in every point, with the fixed Stars, by the ſpace, ſay ſome, of 15. Moneths, others of two whole yeares. Peucerus in his Chronologie, an eye witneſſe of it as many thouſands
+<pb n="25" facs="tcp:116094:17"/>more were, he writes thus of it: <hi>fulget ſub aſter <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>o Caſſiop<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iae novam ſidus cujus ſimile nulla vidit <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tas cam magnitudine, quantum, ad viſum ſtella<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> omnes tam errantes quam fixas ſuperet. Haerer immo<g ref="char:EOLhyphen"/>bile in to coeli loco quod primum effulſit et à nobis conſpectum eſt.</hi> Many of that time delivered their opinions of it, what it might portend, <hi>Beza</hi> wrote verſes on it; it was held by all, and cal<g ref="char:EOLhyphen"/>led by <hi>Tychobrahe, ſtella mirabilis,</hi> a wonderfull Star. And well might it be ſo called, for that wonderfull Star pointed at the great wonder in Heaven, <hi>Revel.</hi> 12.1. <hi>Chriſt born the ſecond time in theſe laſt dayes according to the Spirit. The woman the Church clothed with the ſun, Mal.</hi> 4.2. <hi>With Chriſt the ſun of r<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ghteouſneſſe,</hi> the Moon the changeable world under her feet. Thus ſome of the Antients underſtood <hi>Jericho</hi> which hath the name from the Moon, a kind of Luneburg, the City of the Moon, the changeable world. That was troden under the feet of <hi>Ioſuah</hi> and the Church with him, the ſpirituall and true <hi>Joſhuah</hi> the Lord Jeſus. He hath the ſame name <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and he clothes the woman the Church, who through Him treads the muta<g ref="char:EOLhyphen"/>ble world the ſpirituall Jericho under her feet. <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> At this wonderfull birth in theſe laſt dayes, that glorious and wonderfull Star pointed, and yet points all truly wiſe men. Not like that other Star, which doubtleſs was not higher than the lower Region of the aire: Otherwiſe how could it be ſaid to goe before them, as that <hi>Numb.</hi> 24.17. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>inceſſit, it went and ſtood over the place where the Child was,</hi> Matth. 2.9. But this wondefull Star ſhone over all Chriſtendome, over the whole Spouſe of Chriſt, of whom Chriſt is born the ſecond time.</p>
+            <p>Yea, befides this wonder in Heaven, and this wonderfull Star directing to it, in the ſame years 1572. and 73.4, 5. &amp;c. brake forth the moſt glorious and wonderfull light of ſpiri<g ref="char:EOLhyphen"/>tuall and heavenly Doctrine; <hi>The everlaſting Goſpel, which had an Angel for the Preacher of it, flying in the midſt uf Heaven,</hi> Revel. 14.6, 7. And this glorious light of the everlaſting Goſpel again breaks forth in theſe laſt dayes; though the Dogs ex<g ref="char:EOLhyphen"/>treamly bark a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it. But we muſt be content; If wrathful and
+<pb n="25" facs="tcp:116094:17"/>envious Dogs barke at the Moon the leſſer light, no marveil though they bark at the Sun the greater light, and the woman clothed with it. But the time ſhall come which ye read in <hi>Jo<g ref="char:EOLhyphen"/>ſhua,</hi> 10.21. <hi>That none ſhall move their tongue at the Children of Iſrael.</hi>
+            </p>
+            <p>Now as the Lord called the Heaven to witneſſe the Spiri<g ref="char:EOLhyphen"/>tuall birth of Chriſt; and an Angell flying in the midſt of Heaven to give teſtimony to the everlaſting Goſpell: So in the yeer 1575. when the light of it brake forth into this Iſland, the Lord called alſo the earth to witneſſe the ſame truth. Maſter <hi>Camden</hi> in his <hi>Britannia</hi> tels us, in the De<g ref="char:EOLhyphen"/>ſcription of <hi>Herefordſhire,</hi> that <hi>Prope confluentes [Lugi &amp; Vagae] Collis quem Marcley-hill vocant, anns ſalutis</hi> 1575. <hi>quaſi ſomne ſolutus conſutrexit &amp; triduum ſe in immaniſſimam molem propellens horrenao reboans mugitu, &amp; obvia quaeque prosternens in ſuperiorem locum, magna cum admiratione ſe promovit, eo terrae motus genere, ut judico, quod Phyſici Braſmatiam vocant.</hi>
+            </p>
+            <p>Maſter <hi>Speed,</hi> in his Deſcription of the ſame County, gives us the Hiſtory more fully; onely there is in him a miſtake of of the yeere, unleſſe it were onely the Printers fault, as I beleeve.</p>
+            <p>
+               <hi>Marcley-hill</hi> in the Eaſt of this Shire, rowſed it ſelfe out of a dead ſleepe, with a roaring noyſe removed from the place where it ſtood, and for three dayes together travelled from the firſt ſite, to the great amazement and feare of the behol<g ref="char:EOLhyphen"/>ders. It began to journey upon the ſeventh day of <hi>Febr.</hi> being Saturday at fix a clocke at night, and by ſeven the next mor<g ref="char:EOLhyphen"/>ning, had gone forty paces, carrying with it Sheepe in their coates, hedge rowes and trees, whereof ſome were over-turn<g ref="char:EOLhyphen"/>ed, and ſome that ſtood upon the Plaine, are firmely growing upon the Hill, thoſe that were Eaſt, were turned Weſt, and thoſe in the Weſt were ſet in the Eaſt. In which remove, it overthrew <hi>Kinnaſton</hi> Chappell, and turned two High-wayes neere one hundred yards from their uſuall Pathes formerly trod: The ground thus travelling neere about ſix and twen<g ref="char:EOLhyphen"/>ty Acres, which opening it ſelfe with Rocks and all bare the
+<pb n="26" facs="tcp:116094:18"/>earth before it for foure hundred yards ſpace without any ſtay, leaving that which was Paſturage, in the place of Til<g ref="char:EOLhyphen"/>lage, and the Tillage over ſpread with Paſturage. Laſtly, overwhelming her lower parts, mounted to an Hill of twelve fathoms high, and there reſted her ſelfe after three dayes tra<g ref="char:EOLhyphen"/>vell, r<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>maining His marke that ſo laid His hand upon this rocke, whoſe power hath poyſed the Hill in His ballance, <hi>Iob</hi> 28 9. <hi>Eſay</hi> 40.12.</p>
+            <p>This, although we may referre unto its ſecond cauſes, as Maſter <hi>Camden</hi> doth; yet if we conſider the great manifeſta<g ref="char:EOLhyphen"/>tion of that Divine light, by the publiſhing of the everlaſt<g ref="char:EOLhyphen"/>ing Goſpell that very yeere unto this Nation, we cannot but apply that of the <hi>Pſalmiſt; What ayled yee, yee Mountaines that yee shipped like Rams, and yee little. Hils like yong Sheepe? Tremble thou Earth at the preſence of the Lord, at the preſence of the God of Ia<g ref="char:EOLhyphen"/>coh,</hi> Pſal. 114.</p>
+            <p>The Lord then made manifeſt His preſence by the moving of the Earth; and this is not uncouth: For thus when the Lord is ſaid to have bowed the Heavens, and come down, <hi>the foundations of the Hills were ſhaken, Pſal.</hi> 18.7, 8, 9. And <hi>Pſal.</hi> 68. Wherein ſome of the Fathers tell us, <hi>decantari My<g ref="char:EOLhyphen"/>ſteria utriuſque Teſtamenti,</hi> that the Myſteries of both Teſta<g ref="char:EOLhyphen"/>ments are reported, <hi>and chanted out by the ſweet ſinger of Iſrael, v<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſe</hi> 7.8. This came to paſs in the Letter, when God gave his Law, <hi>Exod.</hi> 19. and 20. <hi>Hoc ideò, ut cum illa quae legis ſunt, geſſit, in his quoque ea quae Evangeliorum ſunt praeformâſſe ſciretur.</hi> This the Lord did, that in delivering the Law, He might be known to prefigure thoſe things which belong unto the Goſpel. <hi>Hilar.</hi> So that the Lord therein teſtified of another trembling, another moving of the Earth when the Goſpel ſhould be revealed, which accordingly came to paſs when the Wiſe men in my Text came to <hi>Ieruſalem,</hi> and in quired, <hi>where is He that is born King of the Iewes? When He<g ref="char:EOLhyphen"/>rod the King heard theſe things, he was troubled and all Ieruſalem with him,</hi> Matthew 2.2.3. <hi>Herod</hi> was an <hi>Idumean,</hi> an <hi>Edo<g ref="char:EOLhyphen"/>mite,</hi> a figure of the earthly man, that muſt needs be moved,
+<pb n="27" facs="tcp:116094:18"/>and troubled at the preſence of the heavenly. For the <hi>Edo<g ref="char:EOLhyphen"/>mite,</hi> the earthly man beares rule in us, and is a King in us, as <hi>Herod</hi> the <hi>Edomite</hi> was; and the Image of the earthly we bear, untill the Image of the heavenly appears. And there<g ref="char:EOLhyphen"/>fore <hi>as we have borne the Image of the</hi> (both naturall and corrupt) <hi>earthly, ſo we ſhall bear the Image of the heavenly,</hi> 1 <hi>Cor.</hi> 15.49. No marvell then if the earth be moved at the pre<g ref="char:EOLhyphen"/>ſence of the Lord, that the earthly man tremble, when he hears the newes that he muſt part with his Dominion, and Soveraignty in us, according to the decree of God, <hi>The el<g ref="char:EOLhyphen"/>der ſhall ſerve the younger,</hi> Gen. 25. This is no Goſpel, no glad tydings unto him. This cannot come to paſs without a great deal of ſtrugling, not onely that within us, in our hearts like that in the womb of <hi>Rebecca,</hi> but alſo without us in the world. The ſtrong man is not eaſily bound, nor by any other than the ſtronger one, <hi>Luke</hi> 11. <hi>Herod</hi> that <hi>Mountain of glory or honor,</hi> as his n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me ſignifies, muſt needs tremble and be moved, when he hears newes of one who <hi>turnes the Earth upſide down,</hi> Iſaiah 24.1. <hi>And brings into contempt all the hono<g ref="char:EOLhyphen"/>rable of the Earth,</hi> Iſaiah 23.9. It was true what the Accu<g ref="char:EOLhyphen"/>ſers of our Lord gave-in againſt Him, though not in their ſenſe, <hi>Luke</hi> 23.2. that He did <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>vulg. Lat. ſubvertere Gentem</hi> turn the Nation upſide down. And as true was that, though he meaning otherwiſe, whereof the zeloti<g ref="char:EOLhyphen"/>call Jewes accuſed <hi>Paul</hi> and <hi>Silas, Arts</hi> 17.6. ſaying, they were <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that they had turned the world upſide downe; for ſo no doubt where ever the Preaching of the Goſpell takes effect, ſo that Chriſt as King comes to reigne, He turns the world upſide downe, what was above before, He then brings under <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that which is high in men (even the tumour of their proud and lofty thoughts) it is abominable in the ſight of God. <hi>Luke</hi> 16.14. <hi>He puts downe the mighty from their ſeats, and exalts the lowly and meek, Luke</hi> 1.52. <hi>Eſay</hi> 25.2.12. and 26.5.6. And this though a great change to both, yet both (and well they may) rejoyce and glory in it. <hi>Iam.</hi> 1.9.</p>
+            <pb n="28" facs="tcp:116094:19"/>
+            <p>Yea, what the Lord did at the giving of the Law, prefigu<g ref="char:EOLhyphen"/>red what ſhould be done at the publiſhing of the everlaſting univerſall Goſpell. And therefore when the Preacher of it, <hi>Revel.</hi> 14.6. had publiſhed it, preſently comes forth another Angell, ſaying, <hi>Babylon is fallen, is fallen, &amp;c.</hi> even that three<g ref="char:EOLhyphen"/>fold <hi>Babel,</hi> out of which the three Frogs proceed, even the ſpi<g ref="char:EOLhyphen"/>rits of Divels, which now a long time have gone forth unto the Kings of the earth and of the whole world, to gather them to the battle of the great day of God Almighty, <hi>Revel.</hi> 16.13, 14. And then the greateſt changes muſt be made. For He who went before conquering, went to conquer, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Rev.</hi> 6.2. For in this moſt holy eſtate, when tranſgreſſion is to be finiſhed, and an end made of ſinne, and reconciliation for ini<g ref="char:EOLhyphen"/>quity, and the everlaſting righteouſneſſe brought in, and the moſt holy annointed the Lord does not then ſpeake on earth, as <hi>Ebr.</hi> 2.3. but from heaven <hi>Ebr.</hi> 12.25. Then not onely the earth is to be moved but alſo heaven, <hi>Ebr.</hi> 12, 26. not onely the ſinfull earthly thoughts, minds and affections of the corrupt <hi>Adam;</hi> nor onely the ſpiritual wickedneſſe in heavenly things, but alſo thoſe things, which in compariſon of legall admini<g ref="char:EOLhyphen"/>ſtrations, were accounted heavenly, even they in regard of the new heaven and the new earth that now appeares, even they muſt be ſhaken, as already they are in ſome meaſure: of this eſtate the Apoſtle ſpeaks, 2 <hi>Cor.</hi> 5.16, 17.</p>
+            <p>But if the firſt Starre deſigned and pointed at the very Ci<g ref="char:EOLhyphen"/>ty, and Houſe where Chriſt was borne according to the fleſh; and this wonderfull Starre point to none; Chriſts comming in the fleſh, in that reſpect, will be more glorions than His comming in the Spirit, and ſo the latter Houſe ſhall not be more glorious than the former, which yet hath a Promiſe that it ſhall be, <hi>Haggi</hi> 2.9.</p>
+            <p>Know we therefore, that this wonderfull Star directs un<g ref="char:EOLhyphen"/>to <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Reve<g ref="char:EOLhyphen"/>lations</hi> 20.9. It points to <hi>Bethlehem,</hi> as the other did, <hi>Luke</hi> 2.4. <hi>the City of David,</hi> that is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the Beloved Ci<g ref="char:EOLhyphen"/>ty, beloved of God, where the Lord promiſed the bleſſing,
+<pb n="29" facs="tcp:116094:19"/>
+               <hi>Pſal.</hi> 133. where God, who is the love it ſelf, dwe's: there<g ref="char:EOLhyphen"/>fore the Name of that Myſticall City is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Ez<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k.</hi> 48.35.</p>
+            <p>This is that City, where the Citizens love God, their neighbour, and their enemy, the true <hi>Philadelphia.</hi>
+            </p>
+            <p>This beloved City is that which is ſet on an Hill, <hi>Mat.</hi> 5.14. wherein they of Gods houſhold dwell, <hi>Epheſ.</hi> 2.19. Therefore when the <hi>Pſalmiſt</hi> hath ſpoken of the ſhaking of the earth at the giving of the Law, <hi>Pſa.</hi> 68.8. whereby was figured alſo the changes at the giving of the Goſpell, as I ſhewed before; he tels us of the gracious raine, which fals not like that <hi>Mat.</hi> 5. upon the evill and the good; the Word Preached drops on all: but its a figure of the holy Spirit, which the world can<g ref="char:EOLhyphen"/>not receive, ſaith our Lord: this therefore fals on Gods in<g ref="char:EOLhyphen"/>heritance onely, <hi>ver.</hi> 9. even the Hill of the Lords houſe, <hi>ver.</hi> 15. <hi>Mons Dei mons pinguis,</hi> fat with the unction of the Spirit, which is imparted unto all truely called Chriſtians. This Hill like that I told you of out of Maſter <hi>Camden</hi> and Maſter <hi>Speed,</hi> keeps the Sheepe ſafe in their coats, and all the trees of righteouſneſſe growing upon it; onely it turnes thoſe Weſt which were Eaſt, and the Eaſt Weſt. They that were firſt become laſt, and the laſt firſt. It over turnes all meer ceremo<g ref="char:EOLhyphen"/>niall outſide worſhip; and changes the beaten great rodes, even that broad way of open known ſinners, and that kinde of narrow way, which is indeed cut out of the ſame broad way, conſiſting in an affected kinde of ſtrictneſſe, in regard of ſome bodily exerciſes; which neglect of the true narrow way of mortification which leads unto the everlaſting life. And as that Hill mounted it ſelfe on the top of another, and there reſted; ſo this Hill of the Lord muſt raiſe it ſelfe above all the little Hils, even all particular Churches divided in judgements and opinions: for <hi>why leape yee, ye Hils?</hi> why ſtrive ye for ſu<g ref="char:EOLhyphen"/>periority, yea ſupremacy one above another? This is the Hill which God deſireth to dwell in, yea the Lord will dwell in it for ever. For that of the Prophet muſt have its fulfilling in theſe laſt dayes, <hi>Eſay</hi> 2.2. that the Mountaine of the Lords
+<pb n="30" facs="tcp:116094:20"/>houſe ſhall be eſtabliſhed in the top of the Mountains, and be exalted above the hils, and that ſhall not be ſhaken but re<g ref="char:EOLhyphen"/>main, <hi>Heb.</hi> 12.27.</p>
+            <p>
+               <hi>He that hath ears to hear, let him hear.</hi>
+            </p>
+            <p>But alas! may many a poor ſoul ſay; I have vicious in<g ref="char:EOLhyphen"/>clinations; and the Stars have their deſtructive influences on me: And how ſhall I follow this wonderfull new Star into this glorious City? Let us therefore know, that as there are influences from the Stars, which move and incline us un<g ref="char:EOLhyphen"/>to evill, by reaſon of our depraved nature, ſo are there alſo influences of grace and truth, which proceed from the Son of righteouſneſs, with which the woman is clothed, who hath put on Chriſt, and <hi>from the bright morning Star, Iohn</hi> 1. <hi>Revel.</hi> 22.</p>
+            <p>Theſe influences are received by a living and powerfull faith, which hath the vertues not onely of ſome one Star, or ſome one Aſteriſme, or Conſtellation, but even of all the Stars, all the Conſtellations of the heavens. And therefore the Church moves and ſhines like the ſtarry heaven, which the Apoſtle delights to ſee, <hi>Col.</hi> 2.5. <hi>I am with you in Spirit, joying and beholding</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the orderly Motion, <hi>&amp; firmamentum fidei, Vulg. Lat:</hi> the Fir<g ref="char:EOLhyphen"/>mament of your Faith, by this Word the LXX turn <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Gen.</hi> 1.7. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. By the power of this Faith, this firmament of Faith; all the temptations of the Devill and his Angels are extinct, and fruſtrate, 1 <hi>Pet.</hi> 5.9. <hi>Whom reſiſt ſteafaſt in the Faith,</hi> Jam. 4.7. <hi>Reſiſt him, and he will flye from you.</hi> By vertue of this Faith, we quench all the fiery darts of the Devill. By vertue of this Faith, all the influences inclining to evill, may not onely be fruſtrate of their effect, but alſo turned to good. Haſt thou received an impreſſion of ſadneſs? ſet it on the right object, thy ſin; and remember, <hi>Bleſſed are they that mourn, &amp;c.</hi> Art thou moved by another Influence to covet, and heap up wealth? <hi>Lay up thy treaſure in Heaven, &amp;c.</hi> Doth another Influence incline thee to wanton love? Advance it to the love of thy God, thy neighbour, and thine enemy. Art
+<pb n="31" facs="tcp:116094:20"/>thou yet by another Influence inclined to wrath? <hi>Be angry and ſin not, Epheſ.</hi> 4.26. That is, ſo be angry with thy ſelf, that thou mayſt not ſin.</p>
+            <p>If ſuch <hi>Philadelphians</hi> we ſhall be, if ſuch Citizens of the Be<g ref="char:EOLhyphen"/>loved City, the City of <hi>David, Prov.</hi> 3.20. <hi>By walking after, and with theſe Wiſemen we alſo ſhall be wiſe;</hi> and as they found the Lord Jeſus, ſo ſhall we finde Him alſo, <hi>Iohn</hi> 14.21. We ſhall become true <hi>Magi,</hi> truly Wiſe-men; And we ſhall become Guides to others, and win their ſoules unto the Lord Jeſus, and ſo become more wiſe, <hi>Prov.</hi> 11.13. And ſhine as the Firmament: yea, <hi>We ſhall become Stars, and ſhine as lights in the world,</hi> Dan. 12.3. <hi>They who are wiſe ſhall ſhine as the brightneſs of the Firmament, and they who turn many into Righteouſneſs as the Stars for ever and ever.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
